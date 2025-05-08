@@ -11,3 +11,9 @@
 **Картинки**
 
 Картинки были оптимизированы с помощью (https://tinypng.com/), чтобы сайт загружался быстрее.
+
+### Ссылка на GitHub Pages
+https://badpascal.github.io/russian-travel-main/
+
+### Ссылка на GitHub
+https://github.com/badpascal/russian-travel-main
