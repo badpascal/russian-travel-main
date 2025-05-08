@@ -1,0 +1,9 @@
+.footer__links {
+    display: flex;
+    gap: 18px;
+    align-items: flex-start;
+    @media (width < 768px) {
+        gap: 32px;
+        flex-direction: column;
+    }
+}

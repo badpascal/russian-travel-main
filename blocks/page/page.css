@@ -1,0 +1,12 @@
+.page {
+    background-color: #2a2c2f;
+    padding: 28px 48px 24px;
+    font-family: 'Inter';
+    color: #fff;
+    @media (width < 1280px) {
+        padding: 28px 0 24px;
+    }
+    @media (width < 768px) {
+        padding: 16px 0 24px;
+    }
+}

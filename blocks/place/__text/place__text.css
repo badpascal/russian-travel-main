@@ -1,0 +1,8 @@
+.place__text {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+    @media (width < 768px) {
+        margin: 0 16px 0;
+    }
+}

@@ -1,0 +1,20 @@
+.cover {
+    position: relative;
+    background-image: url("../../images/cover-trains.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    margin: 92px 0 0;
+    height: 740px;
+    @media (width < 1280px) {
+        width: 100vw;
+        height: calc(640 / 1024 * 100vw);
+    }
+}
+
+.cover:hover {
+    cursor: pointer;
+}
